@@ -1,4 +1,4 @@
-<!--# 👋 Hey, I'm Omowunmi  
+# 👋 Hey, I'm Omowunmi  
 
 I’m a Computer Science student who loves learning and creating things with code.  
 Right now, I’m improving my skills in **Python**, **HTML**, **CSS**, and **JavaScript**, and I enjoy building simple but meaningful projects.  
