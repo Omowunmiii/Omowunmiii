@@ -1,20 +1,16 @@
-# 👋 Hey, I'm Omowunmi  
-
-I’m a Computer Science student who loves learning and creating things with code.  
-Right now, I’m improving my skills in **Python**, **HTML**, **CSS**, and **JavaScript**, and I enjoy building simple but meaningful projects.  
-
+# 👋 Hello, I'm Wunmi  
+I'm a Computer Science student building fullstack projects with React, Node, and MongoDB. I like turning ideas into working products — from UI to the backend logic that runs them.
 I like seeing how tech can mix with creativity especially in areas like beauty and design.  
 
 
 ### 💻 What I’m up to
-- Working on small web projects to practice front-end development  
-- Learning Python step by step  
-- Exploring new ideas that connect tech and everyday life  
+- Working on small web projects to practice front-end development & back-end development   
+- Exploring new ideas that links technology and everyday life  
 
 
 
 ### 🛠️ Tools I Use
-HTML • CSS • JavaScript • Python • Git • VS Code • Canva • Figma  
+HTML • CSS • JavaScript • TypeScript • React • Node.js • MongoDB/Mongoose • Git • VS Code • Figma
 
 
 
@@ -25,7 +21,7 @@ HTML • CSS • JavaScript • Python • Git • VS Code • Canva • Figma
 
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omowunmi-ogunlowo-8627a7345?trk=contact-info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omowunmi-ogunlowo)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/_wunmiee_?igsh=eHQwOGdkYWg1dm92)
 
 
