@@ -5,7 +5,7 @@ how the whole thing fits together, not just the part users see.
 
 
 ### 💻 What I’m up to
-**[UnilagMarket](#)** — a campus marketplace for UNILAG students. Browse,
+**[UnilagMarket](https://github.com/Omowunmiii/unilag-market)** — a campus marketplace for UNILAG students. Browse,
 search, filter, and list products for sale. Solo build: React, Vite, React
 Router, and Context API for state, with auth, cart, wishlist, checkout,
 seller listings, and persistent storage across sessions.
